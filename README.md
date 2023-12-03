@@ -8,14 +8,18 @@
 
 
 
+<br>
 
 **Unveiling Mumbai's Real Estate Landscape: An End-to-End Exploration on Snowflake Cloud**
-
+------------------------------------------------------------------------------------------
 **Introduction:**
 The Mumbai Real Estate Analysis project is a comprehensive journey conducted on the robust **Snowflake Cloud platform**. From the meticulous extraction of data from the prominent real estate platform **99 Acres** via Kaggle to a thorough ETL (Extract, Transform, Load) process, this project seamlessly unfolds as an end-to-end exploration. It encompasses the entire spectrum of real estate data handling, from cleaning raw datasets to the creation of a dedicated infrastructure within Snowflake. The culmination of this venture is a dynamic dashboard, serving as a visual testament to the power and precision of Snowflake Cloud in transforming diverse datasets into actionable insights for navigating Mumbai's real estate landscape.
+<br>
 
 **Navigating the Mumbai Real Estate Landscape:**
+--------------------------------------
 
+<br>
 ◼️ **Data Extraction :** *Initiating the Journey*
 
 The Mumbai Real Estate Analysis project begins with the meticulous extraction of data from the prominent real estate platform **99 Acres** via Kaggle. This raw dataset serves as the foundation for a comprehensive exploration.
@@ -43,10 +47,10 @@ A strategic geographic analysis covers diverse city areas, including Central Mum
 
 **Operational Tools and Languages :**
 
-◼️ SQL
+◼️ **SQL :** *For extracting, cleansing, analyzing*
 
-◼️ Snowflake Cloud
+◼️ **Snowflake Cloud :** *For data storage & analysis*  
 
-◼️ Kaggle (for initial data sourcing)
+◼️ **Kaggle :** *For initial data sourcing*
 
-◼️ OneNote (for noteing the steps)
+◼️ **OneNote :** *As the Project Journal*
