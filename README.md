@@ -20,6 +20,7 @@ The Mumbai Real Estate Analysis project is a comprehensive journey conducted on 
 --------------------------------------
 
 <br>
+
 ◼️ **Data Extraction :** *Initiating the Journey*
 
 The Mumbai Real Estate Analysis project begins with the meticulous extraction of data from the prominent real estate platform **99 Acres** via Kaggle. This raw dataset serves as the foundation for a comprehensive exploration.
